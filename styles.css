@@ -1,0 +1,26 @@
+#page{
+    background-color: brown;
+    text-align: center;
+}
+
+.homepage-title{
+    font-family: cursive, sans-serif, 'Times New Roman';
+    font-size: 50px;
+}
+
+ul{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    color: navy;
+}
+
+.avatar{
+    width: 500px;
+    height: auto;
+}
